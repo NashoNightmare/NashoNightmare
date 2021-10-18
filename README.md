@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NashoNightmare
+- 👋 Hi, I’m OshanDevinda
 - 👀 I’m interested in XOXO
 - 🌱 I’m currently learning nothing
 - 💞️ I’m not planning to collaborate with anyone for now
