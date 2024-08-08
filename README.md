@@ -1,8 +1,4 @@
-- 👋 Hi, I’m OshanDevinda
-- 👀 I’m interested in XOXO
-- 🌱 I’m currently learning nothing
-- 💞️ I’m not planning to collaborate with anyone for now
-- 📫 How to reach me : nashotheboss@gmail.com
+Hi! I'm Oshan Devinda. An Artist currently working on 3D environments and characters.
 
 <!---
 NashoNightmare/NashoNightmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
